@@ -74,10 +74,3 @@
 
 </p>
 
----
-
-### 👀 Profile Visitors
-
-[![](https://komarev.com/ghpvc/?username=Abhay-us&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
